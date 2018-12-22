@@ -19,13 +19,12 @@ Ubuntu
 1. VirtualBox
 1. Vagrant
 
----?image=assets/img/キャプチャ.PNG
+---?image=assets/img/slack.png
 @title[ここで注意に気づく]
 @snap[north span-50]
 ## ここで注意に気づく
-
----
 @snapend
+---
 @snap[north-west]
 #### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
 @snapend
