@@ -24,7 +24,7 @@ Ubuntu
 ---?image=assets/img/azure.png
 ---
 @snap[west span-50]
-### Unixコマンドでクローリング<br>スクレイピング
+### Unixコマンドで<br>クローリング<br>スクレイピング
 @snapend
 @snap[east span-50]
 ![](https://raw.githubusercontent.com/TakeshiMasukawa/in-60-seconds/master/assets/img/ssh.png)
