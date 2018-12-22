@@ -23,11 +23,11 @@ Ubuntu
 @title[ここで注意に気づく]
 ---?image=assets/img/azure.png
 ---
-@snap[north span-50]
-## Unixコマンドでクローリング<br>スクレイピング
+@snap[west span-50]
+### Unixコマンドでクローリング<br>スクレイピング
 @snapend
-@snap[south span-50]
+@snap[east span-50]
 ![](https://raw.githubusercontent.com/TakeshiMasukawa/in-60-seconds/master/assets/img/ssh.png)
 @snapend
 ---
-# Python触ってねえ
+## Python触ってねえ
