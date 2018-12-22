@@ -12,15 +12,9 @@
 ---
 @title[環境構築]
 ## 環境構築
-@snap[north]
-![](https://assets.ubuntu.com/v1/cb3ecebb-picto-ubuntu.svg)
-@snapend
-@snap[south-west]
-![](https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png)
-@snapend
-@snap[south-east]
-![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png)
-@snapend
+Ubuntu
+1. VirtualBox
+1. Vagrant
 ---
 @title[Add A Little Imagination]
 
