@@ -1,11 +1,13 @@
-# Let's Get Started
+# Pythonクローリング・スクレイピング
 
 ---
+@snap[west span-50]
+## 読んだ本
+@snapend
 
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
-
+@snap[east span-50]
+![](http://image.gihyo.co.jp/assets/images/cover/2017/9784774183671.jpg)
+@snapend
 ---
 @title[Customize Slide Layout]
 
