@@ -9,6 +9,7 @@
 @snap[east span-50]
 ![](https://images-na.ssl-images-amazon.com/images/I/61%2BeYUm8CNL.jpg)
 @snapend
+
 ---
 @title[環境構築]
 @snap[north span-50]
@@ -17,10 +18,13 @@
 Ubuntu
 1. VirtualBox
 1. Vagrant
----?image=assets/img/キャプチャ.png
+
+---?image=assets/img/キャプチャ.PNG
 @title[ここで注意に気づく]
 @snap[north span-50]
 ## ここで注意に気づく
+
+---
 @snapend
 @snap[north-west]
 #### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
