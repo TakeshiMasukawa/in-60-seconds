@@ -17,7 +17,7 @@
 Ubuntu
 1. VirtualBox
 1. Vagrant
----?image=https://raw.githubusercontent.com/TakeshiMasukawa/in-60-seconds/master/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3.PNG
+---?image=assets/img/キャプチャ.png
 @title[ここで注意に気づく]
 @snap[north span-50]
 ## ここで注意に気づく
