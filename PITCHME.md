@@ -17,9 +17,11 @@
 Ubuntu
 1. VirtualBox
 1. Vagrant
----
-@title[Add A Little Imagination]
-
+---?image=https://raw.githubusercontent.com/TakeshiMasukawa/in-60-seconds/master/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3.PNG
+@title[ここで注意に気づく]
+@snap[north span-50]
+## ここで注意に気づく
+@snapend
 @snap[north-west]
 #### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
 @snapend
