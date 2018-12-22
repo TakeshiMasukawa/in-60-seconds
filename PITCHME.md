@@ -11,7 +11,9 @@
 @snapend
 ---
 @title[環境構築]
+@snap[north span-50]
 ## 環境構築
+@snapend
 Ubuntu
 1. VirtualBox
 1. Vagrant
