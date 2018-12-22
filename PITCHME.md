@@ -1,25 +1,21 @@
 ## Pythonクローリング&<br>スクレイピング
 
 ---
+@title[読んだ本]
 @snap[west span-50]
 ## 読んだ本
 @snapend
 
 @snap[east span-50]
-![](http://image.gihyo.co.jp/assets/images/cover/2017/9784774183671.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/61%2BeYUm8CNL.jpg)
 @snapend
 ---
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
----?color=#E58537
+@title[環境構築]
+## 環境構築
+![](https://assets.ubuntu.com/v1/cb3ecebb-picto-ubuntu.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/8/87/Vagrant.png)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png)
+---
 @title[Add A Little Imagination]
 
 @snap[north-west]
